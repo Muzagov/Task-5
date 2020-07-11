@@ -1,5 +1,5 @@
 
-const myсar = {
+const myCar = {
                name: "Priora",
                maxSpeed: "210", 
                width: 120, 
@@ -13,11 +13,11 @@ const a = [
            "vue"
           ];
 
-const getphonenumber = () => {
+const getPhoneNumber = () => {
   return "+7 (929) 892 - 23 05";
 }
 
-const getsquare = () => {
+const getSquare = () => {
   return num * num;
 }
 
