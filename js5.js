@@ -1,17 +1,17 @@
 
 const myCar = {
-               name: "Priora",
-               maxSpeed: "210", 
-               width: 120, 
-               height: 110
-             };
+  name: "Priora",
+  maxSpeed: "210", 
+  width: 120, 
+  height: 110
+};
 
 const a = [
-           "react",
-           "angular",
-           "redux",
-           "vue"
-          ];
+  "react",
+  "angular",
+  "redux",
+  "vue"
+];
 
 const getPhoneNumber = () => {
   return "+7 (929) 892 - 23 05";
